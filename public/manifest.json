@@ -1,0 +1,21 @@
+{
+  "name": "Concreate Club IIT Indore",
+  "short_name": "Concreate",
+  "description": "The official Civil Engineering student club of IIT Indore.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
